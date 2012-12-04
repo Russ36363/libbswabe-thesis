@@ -1,3 +1,7 @@
+Original Version by John Bethencourt
+Modifications by Russ Martin
+
+Original Version cab be found below.
 Right now, the only documentation that exists for this library is the
 set of comments in the header file bswabe.h. For usage examples, look
 through the source of the cpabe package found at the URL below.
